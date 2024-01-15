@@ -1,0 +1,13 @@
+{
+  "short_name": "STR Barcode TBR Tracking",
+  "name": "STR Barcode TBR Tracking",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}
